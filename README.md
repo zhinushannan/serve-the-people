@@ -1,4 +1,1 @@
 # serve-the-people
-
-
-
